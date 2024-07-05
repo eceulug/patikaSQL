@@ -1,1 +1,1 @@
-# patikaSQL
+# patikaSQL ödevlerini içerir
